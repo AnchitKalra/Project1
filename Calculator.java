@@ -1,4 +1,4 @@
-/* Calculator with GUI*/
+/* Calculator with GUI */
 import java.awt.event.*;
 import java.awt.*;
 import javax.swing.*;
